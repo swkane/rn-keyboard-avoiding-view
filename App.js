@@ -1,6 +1,9 @@
 import React from "react";
 import { StyleSheet, Text, View } from "react-native";
-import Demo from "./Demo";
+// import Demo from "./KeyboardAvoidingView";
+// import Demo from "./KeyboardAwareScrollView";
+// import Demo from "./KeyboardModule";
+import Demo from "./KeyboardCovering";
 
 export default class App extends React.Component {
   render() {
